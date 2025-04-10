@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name-->
+    <string name="app_name">SoulRise</string>
+
+    <!-- Facebook Login -->
+    <string name="facebook_app_id">3861910984047804</string>
+    <string name="fb_login_protocol_scheme">fb3861910984047804</string>
+
+    <!-- Facebook Client Token (כדאי להוסיף את זה אם הוא חסר) -->
+    <string name="facebook_client_token">36ce2b8b839c5b56bb444d0cf933702f</string>
+</resources>

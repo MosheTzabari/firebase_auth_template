@@ -1,0 +1,2 @@
+C:/Users/fjdc78/Desktop/flutter_projets/soulrise/android/app/.cxx/Debug/2t3k6028/x86/CMakeFiles/edit_cache.dir
+C:/Users/fjdc78/Desktop/flutter_projets/soulrise/android/app/.cxx/Debug/2t3k6028/x86/CMakeFiles/rebuild_cache.dir
